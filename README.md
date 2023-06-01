@@ -1,2 +1,2 @@
 # GameOfLifeEN
-The English version of Game of life
+The English version of "Game of Life"
